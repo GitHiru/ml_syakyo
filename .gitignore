@@ -1,7 +1,10 @@
 .ipynb_checkpoints/
 .ipynb_checkpoints
 .DS_Store
+<<<<<<< HEAD
 input/
 input
 output/
 output
+=======
+>>>>>>> origin/master
